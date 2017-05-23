@@ -1,0 +1,71 @@
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>Pharmacy Info Network</title>
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- CSS concatenated and minified via ant build script-->
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- end CSS-->
+
+  <script src="js/libs/modernizr-2.0.6.min.js"></script>
+</head>
+
+<body>
+
+  <div id="container" class="container">
+    <header>
+      <h1>Pharmacy Info Network</h1>
+    </header>
+
+    <div id="controls">
+      <div id="popularityfilter" class="control">
+        <h3>Popularity (No. of events)</h3>
+        <a id="all" class="active">All</a>
+        <a id="popular">Popular</a>
+        <a id="obscure">Not that popular</a>
+      </div>
+
+      <div id="industryfilter" class="control">
+        <h3>Select your industry:</h3>
+        <select id="industry_select">
+          <option value="all">All</option>
+          <option value="clinic">Clinic</option>
+          <option value="hospital">Hospital</option>
+          <option value="pharmacy">Pharmacy</option>
+        </select>
+      </div>
+
+      <div id="search_section" class="control">
+        <form id="search_form" action=""  method="post">
+          <p class="search_title">Search <input type="text" class="text-input" id="search" value="" /></p>
+        </form>
+      </div>
+    </div>
+
+    <!--<div>
+      <input id="name_checkbox" type="checkbox">Show names 
+    </div> -->
+
+    <div id="main" role="main">
+      <div id="network"></div>
+    </div>
+
+  </div> <!--! end of #container -->
+
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> -->
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.2.min.js"><\/script>')</script>
+
+  <script defer src="js/plugins.js"></script>
+  <script defer src="js/script.js"></script>
+  <script src="js/libs/d3.v2.js"></script>
+  <script src="js/Tooltip.js"></script>
+  <script type="text/javascript" src="coffee/vis.js"></script>
+
+</body>
+</html>

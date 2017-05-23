@@ -1,0 +1,556 @@
+{
+  "nodes": [
+    {
+      "id": "01",
+      "name": "土橋 邦生",
+      "company": "Healthy Hospital",
+      "department": "Surgery",
+      "industry": "Hospital",
+      "position": "President",
+      "technicalarea": "High Blood Pressure",
+      "eventcount": 50
+    },
+    {
+      "id": "02",
+      "name": "中西 洋一",
+      "company": "Healthy Hospital",
+      "department": "Surgery",
+      "industry": "Hospital",
+      "position": "Doctor",
+      "technicalarea": "High Blood Pressure",
+      "eventcount": 70
+    },
+    {
+      "id": "03",
+      "name": "山岸 正和",
+      "company": "Healthy Hospital",
+      "department": "Surgery",
+      "industry": "Hospital",
+      "position": "Doctor",
+      "technicalarea": "High Blood Pressure",
+      "eventcount": 90
+    },
+    {
+      "id": "04",
+      "name": "伊藤 貞嘉",
+      "company": "Healthy Hospital",
+      "department": "Medicine",
+      "industry": "Hospital",
+      "position": "Doctor",
+      "technicalarea": "High Blood Pressure",
+      "eventcount": 110
+    },
+    {
+      "id": "05",
+      "name": "中村 二郎",
+      "company": "Healthy Hospital",
+      "department": "Medicine",
+      "industry": "Hospital",
+      "position": "Doctor",
+      "technicalarea": "High Blood Pressure",
+      "eventcount": 130
+    },
+    {
+      "id": "06",
+      "name": "赤水 尚史",
+      "company": "Healthy Hospital",
+      "department": "Treatment",
+      "industry": "Hospital",
+      "position": "President",
+      "technicalarea": "Vaccines",
+      "eventcount": 150
+    },
+    {
+      "id": "07",
+      "name": "峰松 一夫",
+      "company": "Hello Hospital",
+      "department": "Treatment",
+      "industry": "Hospital",
+      "position": "Doctor",
+      "technicalarea": "Vaccines",
+      "eventcount": 150
+    },
+    {
+      "id": "08",
+      "name": "南野 徹",
+      "company": "Hello Hospital",
+      "department": "Medicine",
+      "industry": "Hospital",
+      "position": "Doctor",
+      "technicalarea": "Vaccines",
+      "eventcount": 50
+    },
+    {
+      "id": "09",
+      "name": "吉野 秀朗/磯村 正",
+      "company": "Hello Hospital",
+      "department": "Treatment",
+      "industry": "Hospital",
+      "position": "Doctor",
+      "technicalarea": "Diabetes",
+      "eventcount": 30
+    },
+    {
+      "id": "10",
+      "name": "大矢 雅敏",
+      "company": "Hello Hospital",
+      "department": "Treatment",
+      "industry": "Hospital",
+      "position": "Doctor",
+      "technicalarea": "Diabetes",
+      "eventcount": 150
+    },
+    {
+      "id": "11",
+      "name": "前村 浩二",
+      "company": "Global Pharmaceutical Holding",
+      "department": "Research and Development",
+      "industry": "Pharmacy",
+      "position": "President",
+      "technicalarea": "High Blood Pressure",
+      "eventcount": 150
+    },
+    {
+      "id": "12",
+      "name": "陳 和夫",
+      "company": "Global Pharmaceutical Holding",
+      "department": "Research and Development",
+      "industry": "Pharmacy",
+      "position": "Doctor",
+      "technicalarea": "High Blood Pressure",
+      "eventcount": 250
+    },
+    {
+      "id": "13",
+      "name": "佐藤 利雄",
+      "company": "Global Pharmaceutical Holding",
+      "department": "Research and Development",
+      "industry": "Pharmacy",
+      "position": "Doctor",
+      "technicalarea": "High Blood Pressure",
+      "eventcount": 130
+    },
+    {
+      "id": "14",
+      "name": "高橋 政夫",
+      "company": "Global Pharmaceutical Holding",
+      "department": "Testing",
+      "industry": "Pharmacy",
+      "position": "Doctor",
+      "technicalarea": "High Blood Pressure",
+      "eventcount": 40
+    },
+    {
+      "id": "15",
+      "name": "井本 浩",
+      "company": "Global Pharmaceutical Holding",
+      "department": "Testing",
+      "industry": "Pharmacy",
+      "position": "President",
+      "technicalarea": "Vaccines",
+      "eventcount": 150
+    },
+    {
+      "id": "16",
+      "name": "岩田 猛",
+      "company": "Global Pharmaceutical Holding",
+      "department": "Testing",
+      "industry": "Pharmacy",
+      "position": "Doctor",
+      "technicalarea": "Vaccines",
+      "eventcount": 150
+    },
+    {
+      "id": "17",
+      "name": "上村 史朗",
+      "company": "Asia Pharmaceutical Holding",
+      "department": "Testing",
+      "industry": "Pharmacy",
+      "position": "Doctor",
+      "technicalarea": "Vaccines",
+      "eventcount": 170
+    },
+    {
+      "id": "18",
+      "name": "下川 宏明",
+      "company": "Asia Pharmaceutical Holding",
+      "department": "Testing",
+      "industry": "Pharmacy",
+      "position": "Doctor",
+      "technicalarea": "Diabetes",
+      "eventcount": 170
+    },
+    {
+      "id": "19",
+      "name": "島田 英雄",
+      "company": "Asia Pharmaceutical Holding",
+      "department": "Research and Development",
+      "industry": "Pharmacy",
+      "position": "Doctor",
+      "technicalarea": "Diabetes",
+      "eventcount": 170
+    },
+    {
+      "id": "20",
+      "name": "山下 幸孝",
+      "company": "Asia Pharmaceutical Holding",
+      "department": "Research and Development",
+      "industry": "Pharmacy",
+      "position": "Doctor",
+      "technicalarea": "Diabetes",
+      "eventcount": 190
+    },
+    {
+      "id": "21",
+      "name": "阿部 雅則",
+      "company": "Neighbourhood Clinic",
+      "department": "Treatment",
+      "industry": "Clinic",
+      "position": "President",
+      "technicalarea": "High Blood Pressure",
+      "eventcount": 120
+    },
+    {
+      "id": "22",
+      "name": "廣岡 芳樹",
+      "company": "Neighbourhood Clinic",
+      "department": "Treatment",
+      "industry": "Clinic",
+      "position": "Doctor",
+      "technicalarea": "High Blood Pressure",
+      "eventcount": 90
+    },
+    {
+      "id": "23",
+      "name": "有沢 富康",
+      "company": "Neighbourhood Clinic",
+      "department": "Treatment",
+      "industry": "Clinic",
+      "position": "Doctor",
+      "technicalarea": "High Blood Pressure",
+      "eventcount": 80
+    },
+    {
+      "id": "24",
+      "name": "高橋 宏明",
+      "company": "Neighbourhood Clinic",
+      "department": "Treatment",
+      "industry": "Clinic",
+      "position": "President",
+      "technicalarea": "Vaccines",
+      "eventcount": 50
+    },
+    {
+      "id": "25",
+      "name": "貝瀬 満",
+      "company": "Neighbourhood Clinic",
+      "department": "Treatment",
+      "industry": "Clinic",
+      "position": "Doctor",
+      "technicalarea": "Vaccines",
+      "eventcount": 220
+    },
+    {
+      "id": "26",
+      "name": "日浅 陽一",
+      "company": "Neighbourhood Clinic",
+      "department": "Treatment",
+      "industry": "Clinic",
+      "position": "Doctor",
+      "technicalarea": "Vaccines",
+      "eventcount": 130
+    },
+    {
+      "id": "27",
+      "name": "緒方 勤",
+      "company": "Neighbourhood Clinic",
+      "department": "Research",
+      "industry": "Clinic",
+      "position": "Doctor",
+      "technicalarea": "Vaccines",
+      "eventcount": 110
+    },
+    {
+      "id": "28",
+      "name": "黒田 達夫",
+      "company": "Star Clinic",
+      "department": "Research",
+      "industry": "Clinic",
+      "position": "Doctor",
+      "technicalarea": "Vaccines",
+      "eventcount": 120
+    },
+    {
+      "id": "29",
+      "name": "小室 一成",
+      "company": "Star Clinic",
+      "department": "Treatment",
+      "industry": "Clinic",
+      "position": "Doctor",
+      "technicalarea": "Diabetes",
+      "eventcount": 80
+    },
+    {
+      "id": "30",
+      "name": "西 一彦",
+      "company": "Star Clinic",
+      "department": "Treatment",
+      "industry": "Clinic",
+      "position": "Doctor",
+      "technicalarea": "Diabetes",
+      "eventcount": 140
+    }
+  ],
+  "links": [
+    {
+      "source": "01",
+      "target": "02",
+      "commoneventcount": 15
+    },
+    {
+      "source": "01",
+      "target": "03",
+      "commoneventcount": 13
+    },
+    {
+      "source": "01",
+      "target": "04",
+      "commoneventcount": 20
+    },
+    {
+      "source": "01",
+      "target": "05",
+      "commoneventcount": 5
+    },
+    {
+      "source": "01",
+      "target": "06",
+      "commoneventcount": 8
+    },
+    {
+      "source": "01",
+      "target": "07",
+      "commoneventcount": 12
+    },
+    {
+      "source": "01",
+      "target": "08",
+      "commoneventcount": 22
+    },
+    {
+      "source": "01",
+      "target": "09",
+      "commoneventcount": 15
+    },
+    {
+      "source": "01",
+      "target": "10",
+      "commoneventcount": 21
+    },
+    {
+      "source": "02",
+      "target": "03",
+      "commoneventcount": 12
+    },
+    {
+      "source": "02",
+      "target": "03",
+      "commoneventcount": 22
+    },
+    {
+      "source": "02",
+      "target": "04",
+      "commoneventcount": 7
+    },
+    {
+      "source": "02",
+      "target": "05",
+      "commoneventcount": 9
+    },
+    {
+      "source": "02",
+      "target": "06",
+      "commoneventcount": 13
+    },
+    {
+      "source": "02",
+      "target": "07",
+      "commoneventcount": 15
+    },
+    {
+      "source": "02",
+      "target": "08",
+      "commoneventcount": 20
+    },
+    {
+      "source": "03",
+      "target": "19",
+      "commoneventcount": 30
+    },
+    {
+      "source": "04",
+      "target": "20",
+      "commoneventcount": 7
+    },
+    {
+      "source": "11",
+      "target": "12",
+      "commoneventcount": 22
+    },
+    {
+      "source": "11",
+      "target": "13",
+      "commoneventcount": 21
+    },
+    {
+      "source": "11",
+      "target": "14",
+      "commoneventcount": 20
+    },
+    {
+      "source": "11",
+      "target": "15",
+      "commoneventcount": 19
+    },
+    {
+      "source": "11",
+      "target": "16",
+      "commoneventcount": 18
+    },
+    {
+      "source": "11",
+      "target": "17",
+      "commoneventcount": 17
+    },
+    {
+      "source": "11",
+      "target": "18",
+      "commoneventcount": 16
+    },
+    {
+      "source": "12",
+      "target": "15",
+      "commoneventcount": 15
+    },
+    {
+      "source": "12",
+      "target": "16",
+      "commoneventcount": 30
+    },
+    {
+      "source": "12",
+      "target": "17",
+      "commoneventcount": 28
+    },
+    {
+      "source": "12",
+      "target": "18",
+      "commoneventcount": 9
+    },
+    {
+      "source": "12",
+      "target": "19",
+      "commoneventcount": 26
+    },
+    {
+      "source": "12",
+      "target": "20",
+      "commoneventcount": 15
+    },
+    {
+      "source": "19",
+      "target": "29",
+      "commoneventcount": 12
+    },
+    {
+      "source": "20",
+      "target": "30",
+      "commoneventcount": 30
+    },
+    {
+      "source": "21",
+      "target": "22",
+      "commoneventcount": 27
+    },
+    {
+      "source": "21",
+      "target": "23",
+      "commoneventcount": 32
+    },
+    {
+      "source": "21",
+      "target": "24",
+      "commoneventcount": 20
+    },
+    {
+      "source": "21",
+      "target": "25",
+      "commoneventcount": 20
+    },
+    {
+      "source": "21",
+      "target": "26",
+      "commoneventcount": 20
+    },
+    {
+      "source": "21",
+      "target": "27",
+      "commoneventcount": 8
+    },
+    {
+      "source": "21",
+      "target": "28",
+      "commoneventcount": 8
+    },
+    {
+      "source": "21",
+      "target": "29",
+      "commoneventcount": 8
+    },
+    {
+      "source": "21",
+      "target": "30",
+      "commoneventcount": 9
+    },
+    {
+      "source": "22",
+      "target": "25",
+      "commoneventcount": 10
+    },
+    {
+      "source": "22",
+      "target": "26",
+      "commoneventcount": 11
+    },
+    {
+      "source": "22",
+      "target": "27",
+      "commoneventcount": 11
+    },
+    {
+      "source": "22",
+      "target": "28",
+      "commoneventcount": 11
+    },
+    {
+      "source": "22",
+      "target": "29",
+      "commoneventcount": 12
+    },
+    {
+      "source": "22",
+      "target": "30",
+      "commoneventcount": 12
+    },
+    {
+      "source": "29",
+      "target": "05",
+      "commoneventcount": 12
+    },
+    {
+      "source": "30",
+      "target": "06",
+      "commoneventcount": 13
+    }
+  ]
+}
